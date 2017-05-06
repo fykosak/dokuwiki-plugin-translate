@@ -69,7 +69,7 @@ class helper_plugin_translate extends DokuWiki_Plugin {
                 list($ns1) = explode(':',$id,2);
                 if($this->languageExists($ns1)) $lang = $ns1;
             }
-         
+
             if(!isset($lang) && $this->getConf('guess_lang_by_ui_lang')){
                 // Use the UI language
                 $lang = $conf['lang'];
@@ -224,7 +224,7 @@ class helper_plugin_translate extends DokuWiki_Plugin {
             $class = 'wikilink2';
             $more = ' rel="nofollow"';
         }
-        return '<a href="'.$url.'" class="'.$class.'" title="'.hsc($langname).'"'.$more.'>'.($hsc ? (hsc($text)) : $text).'</a>';
+        return ['text'=>$text,'url'=>$url,'class'=>$class,'more'=>''];
     }
 
     /** Returns HTML with translation links for all enabled languages */
@@ -273,13 +273,14 @@ class helper_plugin_translate extends DokuWiki_Plugin {
         $langs = array_values($this->getTranslations($orig));
 
 
+
         $show_translate = $param_show_translate && $this->hasPermissionTranslate();
 
 
         if(count($langs) == 0 && !$show_translate) return;
 
         // Add the original language if not present
-      
+
         if(count($langs) > 0 && !in_array($origlang,$langs)){
             array_unshift($langs,$origlang);
         }
@@ -291,7 +292,7 @@ class helper_plugin_translate extends DokuWiki_Plugin {
         }
 
 
-   
+
 
         $out = '<div class="plugin_translate">'.DOKU_LF;
         $out .= '<ul>'.DOKU_LF;
@@ -460,7 +461,7 @@ class helper_plugin_translate extends DokuWiki_Plugin {
         $meta = $id === $ID ? $INFO['meta'] : p_get_metadata($id);
         if(empty($meta['relation']['translations'])) return array(); // no translations exist
 
-            
+
 // Check if any of the translations have been deleted
         foreach ($meta['relation']['translations'] as $page_id => $lang) {
             if(!page_exists($page_id)){
