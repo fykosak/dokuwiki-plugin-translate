@@ -1,930 +1,930 @@
 <?php
 // Language names from http://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
-$langinfo = array (
-  'aa' => 
-  array (
+$langinfo = [
+  'aa' =>
+  [
     0 => 'Afaraf',
     1 => 'Afar',
-  ),
-  'ab' => 
-  array (
+  ],
+  'ab' =>
+  [
     0 => 'Аҧсуа',
     1 => 'Abkhazian',
-  ),
-  'ae' => 
-  array (
+  ],
+  'ae' =>
+  [
     0 => 'avesta',
     1 => 'Avestan',
-  ),
-  'af' => 
-  array (
+  ],
+  'af' =>
+  [
     0 => 'Afrikaans',
     1 => 'Afrikaans',
-  ),
-  'ak' => 
-  array (
+  ],
+  'ak' =>
+  [
     0 => 'Akan',
     1 => 'Akan',
-  ),
-  'am' => 
-  array (
+  ],
+  'am' =>
+  [
     0 => 'አማርኛ',
     1 => 'Amharic',
-  ),
-  'an' => 
-  array (
+  ],
+  'an' =>
+  [
     0 => 'Aragonés',
     1 => 'Aragonese',
-  ),
-  'ar' => 
-  array (
+  ],
+  'ar' =>
+  [
     0 => 'العربية',
     1 => 'Arabic',
-  ),
-  'as' => 
-  array (
+  ],
+  'as' =>
+  [
     0 => 'অসমীয়া',
     1 => 'Assamese',
-  ),
-  'av' => 
-  array (
+  ],
+  'av' =>
+  [
     0 => 'авар мацӀ, магӀарул мацӀ',
     1 => 'Avaric',
-  ),
-  'ay' => 
-  array (
+  ],
+  'ay' =>
+  [
     0 => 'aymar aru',
     1 => 'Aymara',
-  ),
-  'az' => 
-  array (
+  ],
+  'az' =>
+  [
     0 => 'azərbaycan dili',
     1 => 'Azerbaijani',
-  ),
-  'ba' => 
-  array (
+  ],
+  'ba' =>
+  [
     0 => 'башҡорт теле',
     1 => 'Bashkir',
-  ),
-  'be' => 
-  array (
+  ],
+  'be' =>
+  [
     0 => 'Беларуская',
     1 => 'Belarusian',
-  ),
-  'bg' => 
-  array (
+  ],
+  'bg' =>
+  [
     0 => 'български език',
     1 => 'Bulgarian',
-  ),
-  'bh' => 
-  array (
+  ],
+  'bh' =>
+  [
     0 => 'भोजपुरी',
     1 => 'Bihari',
-  ),
-  'bi' => 
-  array (
+  ],
+  'bi' =>
+  [
     0 => 'Bislama',
     1 => 'Bislama',
-  ),
-  'bm' => 
-  array (
+  ],
+  'bm' =>
+  [
     0 => 'bamanankan',
     1 => 'Bambara',
-  ),
-  'bn' => 
-  array (
+  ],
+  'bn' =>
+  [
     0 => 'বাংলা',
     1 => 'Bengali',
-  ),
-  'bo' => 
-  array (
+  ],
+  'bo' =>
+  [
     0 => 'བོད་ཡིག',
     1 => 'Tibetan',
-  ),
-  'br' => 
-  array (
+  ],
+  'br' =>
+  [
     0 => 'brezhoneg',
     1 => 'Breton',
-  ),
-  'bs' => 
-  array (
+  ],
+  'bs' =>
+  [
     0 => 'bosanski jezik',
     1 => 'Bosnian',
-  ),
-  'ca' => 
-  array (
+  ],
+  'ca' =>
+  [
     0 => 'Català',
     1 => 'Catalan, Valencian',
-  ),
-  'ce' => 
-  array (
+  ],
+  'ce' =>
+  [
     0 => 'нохчийн мотт',
     1 => 'Chechen',
-  ),
-  'ch' => 
-  array (
+  ],
+  'ch' =>
+  [
     0 => 'Chamoru',
     1 => 'Chamorro',
-  ),
-  'co' => 
-  array (
+  ],
+  'co' =>
+  [
     0 => 'corsu, lingua corsa',
     1 => 'Corsican',
-  ),
-  'cr' => 
-  array (
+  ],
+  'cr' =>
+  [
     0 => 'ᓀᐦᐃᔭᐍᐏᐣ',
     1 => 'Cree',
-  ),
-  'cs' => 
-  array (
+  ],
+  'cs' =>
+  [
     0 => 'česky, čeština',
     1 => 'Czech',
-  ),
-  'cu' => 
-  array (
+  ],
+  'cu' =>
+  [
     0 => 'ѩзыкъ словѣньскъ',
     1 => 'Church Slavic, Old Slavonic, Church Slavonic, Old Bulgarian, Old Church Slavonic',
-  ),
-  'cv' => 
-  array (
+  ],
+  'cv' =>
+  [
     0 => 'чӑваш чӗлхи',
     1 => 'Chuvash',
-  ),
-  'cy' => 
-  array (
+  ],
+  'cy' =>
+  [
     0 => 'Cymraeg',
     1 => 'Welsh',
-  ),
-  'da' => 
-  array (
+  ],
+  'da' =>
+  [
     0 => 'dansk',
     1 => 'Danish',
-  ),
-  'de' => 
-  array (
+  ],
+  'de' =>
+  [
     0 => 'Deutsch',
     1 => 'German',
-  ),
-  'dv' => 
-  array (
+  ],
+  'dv' =>
+  [
     0 => 'ދިވެހި',
     1 => 'Divehi, Dhivehi, Maldivian',
-  ),
-  'dz' => 
-  array (
+  ],
+  'dz' =>
+  [
     0 => 'རྫོང་ཁ',
     1 => 'Dzongkha',
-  ),
-  'ee' => 
-  array (
+  ],
+  'ee' =>
+  [
     0 => 'Ɛʋɛgbɛ',
     1 => 'Ewe',
-  ),
-  'el' => 
-  array (
+  ],
+  'el' =>
+  [
     0 => 'Ελληνικά',
     1 => 'Modern Greek',
-  ),
-  'en' => 
-  array (
+  ],
+  'en' =>
+  [
     0 => 'English',
     1 => 'English',
-  ),
-  'eo' => 
-  array (
+  ],
+  'eo' =>
+  [
     0 => 'Esperanto',
     1 => 'Esperanto',
-  ),
-  'es' => 
-  array (
+  ],
+  'es' =>
+  [
     0 => 'Español, Castellano',
     1 => 'Spanish, Castilian',
-  ),
-  'et' => 
-  array (
+  ],
+  'et' =>
+  [
     0 => 'eesti, eesti keel',
     1 => 'Estonian',
-  ),
-  'eu' => 
-  array (
+  ],
+  'eu' =>
+  [
     0 => 'euskara, euskera',
     1 => 'Basque',
-  ),
-  'fa' => 
-  array (
+  ],
+  'fa' =>
+  [
     0 => 'فارسی',
     1 => 'Persian',
-  ),
-  'ff' => 
-  array (
+  ],
+  'ff' =>
+  [
     0 => 'Fulfulde',
     1 => 'Fulah',
-  ),
-  'fi' => 
-  array (
+  ],
+  'fi' =>
+  [
     0 => 'suomi, suomen kieli',
     1 => 'Finnish',
-  ),
-  'fj' => 
-  array (
+  ],
+  'fj' =>
+  [
     0 => 'vosa Vakaviti',
     1 => 'Fijian',
-  ),
-  'fo' => 
-  array (
+  ],
+  'fo' =>
+  [
     0 => 'føroyskt',
     1 => 'Faroese',
-  ),
-  'fr' => 
-  array (
+  ],
+  'fr' =>
+  [
     0 => 'français, langue française',
     1 => 'French',
-  ),
-  'fy' => 
-  array (
+  ],
+  'fy' =>
+  [
     0 => 'Frysk',
     1 => 'Western Frisian',
-  ),
-  'ga' => 
-  array (
+  ],
+  'ga' =>
+  [
     0 => 'Gaeilge',
     1 => 'Irish',
-  ),
-  'gd' => 
-  array (
+  ],
+  'gd' =>
+  [
     0 => 'Gàidhlig',
     1 => 'Gaelic, Scottish Gaelic',
-  ),
-  'gl' => 
-  array (
+  ],
+  'gl' =>
+  [
     0 => 'Galego',
     1 => 'Galician',
-  ),
-  'gn' => 
-  array (
+  ],
+  'gn' =>
+  [
     0 => 'Avañe\'ẽ',
     1 => 'Guaraní',
-  ),
-  'gu' => 
-  array (
+  ],
+  'gu' =>
+  [
     0 => 'ગુજરાતી',
     1 => 'Gujarati',
-  ),
-  'gv' => 
-  array (
+  ],
+  'gv' =>
+  [
     0 => 'Gaelg, Gailck',
     1 => 'Manx',
-  ),
-  'ha' => 
-  array (
+  ],
+  'ha' =>
+  [
     0 => 'هَوُسَ',
     1 => 'Hausa',
-  ),
-  'he' => 
-  array (
+  ],
+  'he' =>
+  [
     0 => 'עברית',
     1 => 'Modern Hebrew',
-  ),
-  'hi' => 
-  array (
+  ],
+  'hi' =>
+  [
     0 => 'हिन्दी, हिंदी',
     1 => 'Hindi',
-  ),
-  'ho' => 
-  array (
+  ],
+  'ho' =>
+  [
     0 => 'Hiri Motu',
     1 => 'Hiri Motu',
-  ),
-  'hr' => 
-  array (
+  ],
+  'hr' =>
+  [
     0 => 'Hrvatski',
     1 => 'Croatian',
-  ),
-  'ht' => 
-  array (
+  ],
+  'ht' =>
+  [
     0 => 'Kreyòl ayisyen',
     1 => 'Haitian, Haitian Creole',
-  ),
-  'hu' => 
-  array (
+  ],
+  'hu' =>
+  [
     0 => 'Magyar',
     1 => 'Hungarian',
-  ),
-  'hy' => 
-  array (
+  ],
+  'hy' =>
+  [
     0 => 'Հայերեն',
     1 => 'Armenian',
-  ),
-  'hz' => 
-  array (
+  ],
+  'hz' =>
+  [
     0 => 'Otjiherero',
     1 => 'Herero',
-  ),
-  'ia' => 
-  array (
+  ],
+  'ia' =>
+  [
     0 => 'Interlingua',
     1 => 'Interlingua (International Auxiliary Language Association)',
-  ),
-  'id' => 
-  array (
+  ],
+  'id' =>
+  [
     0 => 'Bahasa Indonesia',
     1 => 'Indonesian',
-  ),
-  'ie' => 
-  array (
+  ],
+  'ie' =>
+  [
     0 => 'Interlingue',
     1 => 'Interlingue, Occidental',
-  ),
-  'ig' => 
-  array (
+  ],
+  'ig' =>
+  [
     0 => 'Igbo',
     1 => 'Igbo',
-  ),
-  'ii' => 
-  array (
+  ],
+  'ii' =>
+  [
     0 => 'ꆇꉙ',
     1 => 'Sichuan Yi, Nuosu',
-  ),
-  'ik' => 
-  array (
+  ],
+  'ik' =>
+  [
     0 => 'Iñupiaq, Iñupiatun',
     1 => 'Inupiaq',
-  ),
-  'io' => 
-  array (
+  ],
+  'io' =>
+  [
     0 => 'Ido',
     1 => 'Ido',
-  ),
-  'is' => 
-  array (
+  ],
+  'is' =>
+  [
     0 => 'Íslenska',
     1 => 'Icelandic',
-  ),
-  'it' => 
-  array (
+  ],
+  'it' =>
+  [
     0 => 'Italiano',
     1 => 'Italian',
-  ),
-  'iu' => 
-  array (
+  ],
+  'iu' =>
+  [
     0 => 'ᐃᓄᒃᑎᑐᑦ',
     1 => 'Inuktitut',
-  ),
-  'ja' => 
-  array (
+  ],
+  'ja' =>
+  [
     0 => '日本語 (にほんご／にっぽんご)',
     1 => 'Japanese',
-  ),
-  'jv' => 
-  array (
+  ],
+  'jv' =>
+  [
     0 => 'basa Jawa',
     1 => 'Javanese',
-  ),
-  'ka' => 
-  array (
+  ],
+  'ka' =>
+  [
     0 => 'ქართული',
     1 => 'Georgian',
-  ),
-  'kg' => 
-  array (
+  ],
+  'kg' =>
+  [
     0 => 'KiKongo',
     1 => 'Kongo',
-  ),
-  'ki' => 
-  array (
+  ],
+  'ki' =>
+  [
     0 => 'Gĩkũyũ',
     1 => 'Kikuyu, Gikuyu',
-  ),
-  'kj' => 
-  array (
+  ],
+  'kj' =>
+  [
     0 => 'Kuanyama',
     1 => 'Kwanyama, Kuanyama',
-  ),
-  'kk' => 
-  array (
+  ],
+  'kk' =>
+  [
     0 => 'Қазақ тілі',
     1 => 'Kazakh',
-  ),
-  'kl' => 
-  array (
+  ],
+  'kl' =>
+  [
     0 => 'kalaallisut, kalaallit oqaasii',
     1 => 'Kalaallisut, Greenlandic',
-  ),
-  'km' => 
-  array (
+  ],
+  'km' =>
+  [
     0 => 'ភាសាខ្មែរ',
     1 => 'Central Khmer',
-  ),
-  'kn' => 
-  array (
+  ],
+  'kn' =>
+  [
     0 => 'ಕನ್ನಡ',
     1 => 'Kannada',
-  ),
-  'ko' => 
-  array (
+  ],
+  'ko' =>
+  [
     0 => '한국어 (韓國語), 조선말 (朝鮮語)',
     1 => 'Korean',
-  ),
-  'kr' => 
-  array (
+  ],
+  'kr' =>
+  [
     0 => 'Kanuri',
     1 => 'Kanuri',
-  ),
-  'ks' => 
-  array (
+  ],
+  'ks' =>
+  [
     0 => 'कश्मीरी, كشميري‎',
     1 => 'Kashmiri',
-  ),
-  'ku' => 
-  array (
+  ],
+  'ku' =>
+  [
     0 => 'Kurdî, كوردی‎',
     1 => 'Kurdish',
-  ),
-  'kv' => 
-  array (
+  ],
+  'kv' =>
+  [
     0 => 'коми кыв',
     1 => 'Komi',
-  ),
-  'kw' => 
-  array (
+  ],
+  'kw' =>
+  [
     0 => 'Kernewek',
     1 => 'Cornish',
-  ),
-  'ky' => 
-  array (
+  ],
+  'ky' =>
+  [
     0 => 'кыргыз тили',
     1 => 'Kirghiz, Kyrgyz',
-  ),
-  'la' => 
-  array (
+  ],
+  'la' =>
+  [
     0 => 'latine, lingua latina',
     1 => 'Latin',
-  ),
-  'lb' => 
-  array (
+  ],
+  'lb' =>
+  [
     0 => 'Lëtzebuergesch',
     1 => 'Luxembourgish, Letzeburgesch',
-  ),
-  'lg' => 
-  array (
+  ],
+  'lg' =>
+  [
     0 => 'Luganda',
     1 => 'Ganda',
-  ),
-  'li' => 
-  array (
+  ],
+  'li' =>
+  [
     0 => 'Limburgs',
     1 => 'Limburgish, Limburgan, Limburger',
-  ),
-  'ln' => 
-  array (
+  ],
+  'ln' =>
+  [
     0 => 'Lingála',
     1 => 'Lingala',
-  ),
-  'lo' => 
-  array (
+  ],
+  'lo' =>
+  [
     0 => 'ພາສາລາວ',
     1 => 'Lao',
-  ),
-  'lt' => 
-  array (
+  ],
+  'lt' =>
+  [
     0 => 'lietuvių kalba',
     1 => 'Lithuanian',
-  ),
-  'lu' => 
-  array (
+  ],
+  'lu' =>
+  [
     0 => '	',
     1 => 'Luba-Katanga',
-  ),
-  'lv' => 
-  array (
+  ],
+  'lv' =>
+  [
     0 => 'latviešu valoda',
     1 => 'Latvian',
-  ),
-  'mg' => 
-  array (
+  ],
+  'mg' =>
+  [
     0 => 'Malagasy fiteny',
     1 => 'Malagasy',
-  ),
-  'mh' => 
-  array (
+  ],
+  'mh' =>
+  [
     0 => 'Kajin M̧ajeļ',
     1 => 'Marshallese',
-  ),
-  'mi' => 
-  array (
+  ],
+  'mi' =>
+  [
     0 => 'te reo Māori',
     1 => 'Māori',
-  ),
-  'mk' => 
-  array (
+  ],
+  'mk' =>
+  [
     0 => 'македонски јазик',
     1 => 'Macedonian',
-  ),
-  'ml' => 
-  array (
+  ],
+  'ml' =>
+  [
     0 => 'മലയാളം',
     1 => 'Malayalam',
-  ),
-  'mn' => 
-  array (
+  ],
+  'mn' =>
+  [
     0 => 'Монгол',
     1 => 'Mongolian',
-  ),
-  'mr' => 
-  array (
+  ],
+  'mr' =>
+  [
     0 => 'मराठी',
     1 => 'Marathi',
-  ),
-  'ms' => 
-  array (
+  ],
+  'ms' =>
+  [
     0 => 'bahasa Melayu, بهاس ملايو‎',
     1 => 'Malay',
-  ),
-  'mt' => 
-  array (
+  ],
+  'mt' =>
+  [
     0 => 'Malti',
     1 => 'Maltese',
-  ),
-  'my' => 
-  array (
+  ],
+  'my' =>
+  [
     0 => 'ဗမာစာ',
     1 => 'Burmese',
-  ),
-  'na' => 
-  array (
+  ],
+  'na' =>
+  [
     0 => 'Ekakairũ Naoero',
     1 => 'Nauru',
-  ),
-  'nb' => 
-  array (
+  ],
+  'nb' =>
+  [
     0 => 'Norsk bokmål',
     1 => 'Norwegian Bokmål',
-  ),
-  'nd' => 
-  array (
+  ],
+  'nd' =>
+  [
     0 => 'isiNdebele',
     1 => 'North Ndebele',
-  ),
-  'ne' => 
-  array (
+  ],
+  'ne' =>
+  [
     0 => 'नेपाली',
     1 => 'Nepali',
-  ),
-  'ng' => 
-  array (
+  ],
+  'ng' =>
+  [
     0 => 'Owambo',
     1 => 'Ndonga',
-  ),
-  'nl' => 
-  array (
+  ],
+  'nl' =>
+  [
     0 => 'Nederlands, Vlaams',
     1 => 'Dutch, Flemish',
-  ),
-  'nn' => 
-  array (
+  ],
+  'nn' =>
+  [
     0 => 'Norsk nynorsk',
     1 => 'Norwegian Nynorsk',
-  ),
-  'no' => 
-  array (
+  ],
+  'no' =>
+  [
     0 => 'Norsk',
     1 => 'Norwegian',
-  ),
-  'nr' => 
-  array (
+  ],
+  'nr' =>
+  [
     0 => 'isiNdebele',
     1 => 'South Ndebele',
-  ),
-  'nv' => 
-  array (
+  ],
+  'nv' =>
+  [
     0 => 'Diné bizaad, Dinékʼehǰí',
     1 => 'Navajo, Navaho',
-  ),
-  'ny' => 
-  array (
+  ],
+  'ny' =>
+  [
     0 => 'chiCheŵa, chinyanja',
     1 => 'Chichewa, Chewa, Nyanja',
-  ),
-  'oc' => 
-  array (
+  ],
+  'oc' =>
+  [
     0 => 'Occitan',
     1 => 'Occitan (after 1500)',
-  ),
-  'oj' => 
-  array (
+  ],
+  'oj' =>
+  [
     0 => 'ᐊᓂᔑᓈᐯᒧᐎᓐ',
     1 => 'Ojibwa',
-  ),
-  'om' => 
-  array (
+  ],
+  'om' =>
+  [
     0 => 'Afaan Oromoo',
     1 => 'Oromo',
-  ),
-  'or' => 
-  array (
+  ],
+  'or' =>
+  [
     0 => 'ଓଡ଼ିଆ',
     1 => 'Oriya',
-  ),
-  'os' => 
-  array (
+  ],
+  'os' =>
+  [
     0 => 'Ирон æвзаг',
     1 => 'Ossetian, Ossetic',
-  ),
-  'pa' => 
-  array (
+  ],
+  'pa' =>
+  [
     0 => 'ਪੰਜਾਬੀ, پنجابی‎',
     1 => 'Panjabi, Punjabi',
-  ),
-  'pi' => 
-  array (
+  ],
+  'pi' =>
+  [
     0 => 'पाऴि',
     1 => 'Pāli',
-  ),
-  'pl' => 
-  array (
+  ],
+  'pl' =>
+  [
     0 => 'polski',
     1 => 'Polish',
-  ),
-  'ps' => 
-  array (
+  ],
+  'ps' =>
+  [
     0 => 'پښتو',
     1 => 'Pashto, Pushto',
-  ),
-  'pt' => 
-  array (
+  ],
+  'pt' =>
+  [
     0 => 'Português',
     1 => 'Portuguese',
-  ),
-  'qu' => 
-  array (
+  ],
+  'qu' =>
+  [
     0 => 'Runa Simi, Kichwa',
     1 => 'Quechua',
-  ),
-  'rm' => 
-  array (
+  ],
+  'rm' =>
+  [
     0 => 'rumantsch grischun',
     1 => 'Romansh',
-  ),
-  'rn' => 
-  array (
+  ],
+  'rn' =>
+  [
     0 => 'kiRundi',
     1 => 'Rundi',
-  ),
-  'ro' => 
-  array (
+  ],
+  'ro' =>
+  [
     0 => 'română',
     1 => 'Romanian, Moldavian, Moldovan',
-  ),
-  'ru' => 
-  array (
+  ],
+  'ru' =>
+  [
     0 => 'русский язык',
     1 => 'Russian',
-  ),
-  'rw' => 
-  array (
+  ],
+  'rw' =>
+  [
     0 => 'Ikinyarwanda',
     1 => 'Kinyarwanda',
-  ),
-  'sa' => 
-  array (
+  ],
+  'sa' =>
+  [
     0 => 'संस्कृतम्',
     1 => 'Sanskrit',
-  ),
-  'sc' => 
-  array (
+  ],
+  'sc' =>
+  [
     0 => 'sardu',
     1 => 'Sardinian',
-  ),
-  'sd' => 
-  array (
+  ],
+  'sd' =>
+  [
     0 => 'सिन्धी, سنڌي، سندھی‎',
     1 => 'Sindhi',
-  ),
-  'se' => 
-  array (
+  ],
+  'se' =>
+  [
     0 => 'Davvisámegiella',
     1 => 'Northern Sami',
-  ),
-  'sg' => 
-  array (
+  ],
+  'sg' =>
+  [
     0 => 'yângâ tî sängö',
     1 => 'Sango',
-  ),
-  'si' => 
-  array (
+  ],
+  'si' =>
+  [
     0 => 'සිංහල',
     1 => 'Sinhala, Sinhalese',
-  ),
-  '(sh)' => 
-  array (
+  ],
+  '(sh)' =>
+  [
     0 => '	macrolanguage, the two-letter code has been deprecated, but not the three-letter code',
     1 => 'Serbo-Croatian',
-  ),
-  'sk' => 
-  array (
+  ],
+  'sk' =>
+  [
     0 => 'slovenčina',
     1 => 'Slovak',
-  ),
-  'sl' => 
-  array (
+  ],
+  'sl' =>
+  [
     0 => 'slovenščina',
     1 => 'Slovenian',
-  ),
-  'sm' => 
-  array (
+  ],
+  'sm' =>
+  [
     0 => 'gagana fa\'a Samoa',
     1 => 'Samoan',
-  ),
-  'sn' => 
-  array (
+  ],
+  'sn' =>
+  [
     0 => 'chiShona',
     1 => 'Shona',
-  ),
-  'so' => 
-  array (
+  ],
+  'so' =>
+  [
     0 => 'Soomaaliga, af Soomaali',
     1 => 'Somali',
-  ),
-  'sq' => 
-  array (
+  ],
+  'sq' =>
+  [
     0 => 'Shqip',
     1 => 'Albanian',
-  ),
-  'sr' => 
-  array (
+  ],
+  'sr' =>
+  [
     0 => 'српски језик',
     1 => 'Serbian',
-  ),
-  'ss' => 
-  array (
+  ],
+  'ss' =>
+  [
     0 => 'SiSwati',
     1 => 'Swati',
-  ),
-  'st' => 
-  array (
+  ],
+  'st' =>
+  [
     0 => 'Sesotho',
     1 => 'Southern Sotho',
-  ),
-  'su' => 
-  array (
+  ],
+  'su' =>
+  [
     0 => 'Basa Sunda',
     1 => 'Sundanese',
-  ),
-  'sv' => 
-  array (
+  ],
+  'sv' =>
+  [
     0 => 'svenska',
     1 => 'Swedish',
-  ),
-  'sw' => 
-  array (
+  ],
+  'sw' =>
+  [
     0 => 'Kiswahili',
     1 => 'Swahili',
-  ),
-  'ta' => 
-  array (
+  ],
+  'ta' =>
+  [
     0 => 'தமிழ்',
     1 => 'Tamil',
-  ),
-  'te' => 
-  array (
+  ],
+  'te' =>
+  [
     0 => 'తెలుగు',
     1 => 'Telugu',
-  ),
-  'tg' => 
-  array (
+  ],
+  'tg' =>
+  [
     0 => 'тоҷикӣ, toğikī, تاجیکی‎',
     1 => 'Tajik',
-  ),
-  'th' => 
-  array (
+  ],
+  'th' =>
+  [
     0 => 'ไทย',
     1 => 'Thai',
-  ),
-  'ti' => 
-  array (
+  ],
+  'ti' =>
+  [
     0 => 'ትግርኛ',
     1 => 'Tigrinya',
-  ),
-  'tk' => 
-  array (
+  ],
+  'tk' =>
+  [
     0 => 'Türkmen, Түркмен',
     1 => 'Turkmen',
-  ),
-  'tl' => 
-  array (
+  ],
+  'tl' =>
+  [
     0 => 'Tagalog, Filipino',
     1 => 'Tagalog, Filipino, Pilipino',
-  ),
-  'tn' => 
-  array (
+  ],
+  'tn' =>
+  [
     0 => 'Setswana',
     1 => 'Tswana',
-  ),
-  'to' => 
-  array (
+  ],
+  'to' =>
+  [
     0 => 'faka Tonga',
     1 => 'Tonga (Tonga Islands)',
-  ),
-  'tr' => 
-  array (
+  ],
+  'tr' =>
+  [
     0 => 'Türkçe',
     1 => 'Turkish',
-  ),
-  'ts' => 
-  array (
+  ],
+  'ts' =>
+  [
     0 => 'Xitsonga',
     1 => 'Tsonga',
-  ),
-  'tt' => 
-  array (
+  ],
+  'tt' =>
+  [
     0 => 'татарча, tatarça, تاتارچا‎',
     1 => 'Tatar',
-  ),
-  'tw' => 
-  array (
+  ],
+  'tw' =>
+  [
     0 => 'Twi',
     1 => 'Twi',
-  ),
-  'ty' => 
-  array (
+  ],
+  'ty' =>
+  [
     0 => 'Reo Mā`ohi',
     1 => 'Tahitian',
-  ),
-  'ug' => 
-  array (
+  ],
+  'ug' =>
+  [
     0 => 'Uyƣurqə, ئۇيغۇرچە‎',
     1 => 'Uighur, Uyghur',
-  ),
-  'uk' => 
-  array (
+  ],
+  'uk' =>
+  [
     0 => 'Українська',
     1 => 'Ukrainian',
-  ),
-  'ur' => 
-  array (
+  ],
+  'ur' =>
+  [
     0 => 'اردو',
     1 => 'Urdu',
-  ),
-  'uz' => 
-  array (
+  ],
+  'uz' =>
+  [
     0 => 'O\'zbek, Ўзбек, أۇزبېك‎',
     1 => 'Uzbek',
-  ),
-  've' => 
-  array (
+  ],
+  've' =>
+  [
     0 => 'Tshivenḓa',
     1 => 'Venda',
-  ),
-  'vi' => 
-  array (
+  ],
+  'vi' =>
+  [
     0 => 'Tiếng Việt',
     1 => 'Vietnamese',
-  ),
-  'vo' => 
-  array (
+  ],
+  'vo' =>
+  [
     0 => 'Volapük',
     1 => 'Volapük',
-  ),
-  'wa' => 
-  array (
+  ],
+  'wa' =>
+  [
     0 => 'Walon',
     1 => 'Walloon',
-  ),
-  'wo' => 
-  array (
+  ],
+  'wo' =>
+  [
     0 => 'Wollof',
     1 => 'Wolof',
-  ),
-  'xh' => 
-  array (
+  ],
+  'xh' =>
+  [
     0 => 'isiXhosa',
     1 => 'Xhosa',
-  ),
-  'yi' => 
-  array (
+  ],
+  'yi' =>
+  [
     0 => 'ייִדיש',
     1 => 'Yiddish',
-  ),
-  'yo' => 
-  array (
+  ],
+  'yo' =>
+  [
     0 => 'Yorùbá',
     1 => 'Yoruba',
-  ),
-  'za' => 
-  array (
+  ],
+  'za' =>
+  [
     0 => 'Saɯ cueŋƅ, Saw cuengh',
     1 => 'Zhuang, Chuang',
-  ),
-  'zh' => 
-  array (
+  ],
+  'zh' =>
+  [
     0 => '中文 (Zhōngwén), 汉语, 漢語',
     1 => 'Chinese',
-  ),
-  'zu' => 
-  array (
+  ],
+  'zu' =>
+  [
     0 => 'isiZulu',
     1 => 'Zulu',
-  ),
-);
+  ],
+];
 
